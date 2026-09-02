@@ -2,34 +2,41 @@
 
 _Last updated: 2026-09-02_
 
-## NOW — next website task
+## COMPLETED — main website colour / portrait pass
 
-- [ ] Work only from `aiadopt50-zar/travel-by-grace-website` branch `main`.
-- [ ] Replace/update Lucille's self-portrait with the newly approved portrait image.
-- [ ] Keep Lucille recognisable and natural; improve presentation rather than changing identity.
-- [ ] Change the site colour system so purple is the dominant brand colour.
-- [ ] Add selected high-impact accent colours for energy and surprise.
-- [ ] Check contrast/readability across desktop and mobile.
-- [ ] Avoid unrelated layout/content changes.
-- [ ] Review changes before deployment.
+- [x] Worked only from `aiadopt50-zar/travel-by-grace-website` branch `main`.
+- [x] Confirmed `main` already contains the newest enhanced Lucille portrait from the earlier portrait-update work.
+- [x] Refined Lucille's portrait presentation with a brighter, more flattering but still natural treatment and slightly improved crop.
+- [x] Changed the site colour system so purple is the dominant brand colour.
+- [x] Added controlled high-impact accents: electric magenta/hot pink, bright cyan, warm gold and a small coral accent.
+- [x] Recoloured the primary logo, favicon, hero vehicle illustration and journey illustrations so the visual system is consistent.
+- [x] Kept the work to colour/visual treatment only; no unrelated layout or copy changes were introduced.
 
-## Colour exploration for next task
-Potential accents to test against the purple base:
-- electric magenta / hot pink
-- bright turquoise / cyan
-- vivid coral or sunset orange
-- warm gold
-- acid lime only as a tiny highlight if it remains tasteful
+### Implemented palette
+- Core purple: `#5B168F`
+- Dark purple: `#2A0B47`
+- Electric violet: `#7C3AED`
+- Hot pink: `#FF2E93`
+- Bright cyan: `#38DDF5`
+- Warm gold: `#FFD166`
+- Coral pop: `#FF6B4A`
 
-Goal: memorable and energetic, not visually chaotic.
+The bright accents should remain punctuation rather than equal-weight background colours. Purple stays dominant.
+
+## NEXT — review and deployment
+
+- [ ] Visually review the updated `main` build on desktop and mobile after the cPanel deployment refreshes.
+- [ ] Confirm the portrait crop/brightness feels right on the live page.
+- [ ] Check contrast/readability in the hero, contact section, buttons and service-card accents.
+- [ ] Confirm the live domain is deploying the newest `main` commit.
+- [ ] If a newer approved Lucille portrait is supplied later, replace the existing image without changing the rest of this design pass.
 
 ## Website follow-up backlog
 - [ ] Decide whether any ideas from `replacement-v2-weekend-experiences` should later be brought into `main` individually.
-- [ ] Confirm live deployment / domain state.
 - [ ] Confirm final contact-form routing.
 - [ ] Review mobile experience.
 - [ ] Add Google reviews when the profile is ready.
-- [ ] Revisit final logo.
+- [ ] Revisit final logo only if needed after the purple version is reviewed.
 - [ ] Publish airport-transfer prices when approved.
 - [ ] Keep privacy and booking terms aligned with actual operation.
 
